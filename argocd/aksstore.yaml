@@ -11,7 +11,7 @@ spec:
       prune: true
   project: default
   source:
-    repoURL: https://github.com/KhajaWorkshopsAtQT/aks-store-demo-march-25.git
+    repoURL: https://github.com/anukaran007/regular.git
     targetRevision: main
     path: charts/aks-store-demo
   destination:
